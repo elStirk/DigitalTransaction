@@ -67,10 +67,6 @@
           <url>https://jitpack.io</url>
       </repository>
       <repository>
-          <id>codemc-releases</id>
-          <url>https://repo.codemc.io/repository/maven-public/</url>
-      </repository>
-      <repository>
           <id>essentialsx-repo</id>
           <url>https://repo.essentialsx.net/releases/</url>
       </repository>
@@ -84,15 +80,9 @@
           <scope>provided</scope>
       </dependency>
       <dependency>
-          <groupId>com.github.MilkBowl</groupId>
-          <artifactId>VaultAPI</artifactId>
-          <version>1.7</version>
-          <scope>provided</scope>
-      </dependency>
-      <dependency>
           <groupId>net.essentialsx</groupId>
           <artifactId>EssentialsX</artifactId>
-          <version>2.20.1</version> <!-- Or whichever version you want to use -->
+          <version>2.20.1</version>
           <scope>provided</scope>
       </dependency>
   </dependencies>
