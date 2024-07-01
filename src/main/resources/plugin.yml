@@ -1,0 +1,4 @@
+name: DigitalTransactions
+version: '${project.version}'
+main: net.rpgmyth.digitaltransactions.DigitalTransactions
+api-version: '1.20'
